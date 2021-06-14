@@ -8,6 +8,8 @@ uint32_t data[7068];
 
 ## Theory of operation
 
+<img width="989" alt="Screen Shot 2021-06-13 at 11 10 44 PM" src="https://user-images.githubusercontent.com/42722137/121838078-a0d1ca80-cc9c-11eb-9e63-bb54496e7d62.png">
+
  1. Using 4 tiles, sends pixels along the chain
  2. Each tile stores it's pixels to memory
  3. Each tile performs the compute, outputting
