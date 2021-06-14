@@ -1,0 +1,8 @@
+/Emulation-SW/
+/Emulation-AIE/
+/Hardware/
+*.prj
+/_ide/
+.cproject
+.project
+/.tracecompass/
